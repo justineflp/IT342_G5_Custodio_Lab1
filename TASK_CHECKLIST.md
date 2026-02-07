@@ -8,19 +8,18 @@
 
 | Task | Description | Commit Hash |
 |------|-------------|-------------|
-| Backend – Project setup | Spring Boot, MySQL, JPA, Security, JWT | *(add after first commit)* |
-| Backend – POST /api/auth/register | User registration with validation | *(add after commit)* |
-| Backend – POST /api/auth/login | Login returns JWT | *(add after commit)* |
-| Backend – GET /api/user/me | Protected current user profile | *(add after commit)* |
-| Backend – Database | MySQL connection, User entity, repository | *(add after commit)* |
-| Backend – Password encryption | BCrypt via Spring Security | *(add after commit)* |
-| Web – Register page | Form and API integration | *(add after commit)* |
-| Web – Login page | Form and API integration | *(add after commit)* |
-| Web – Dashboard/Profile page | Protected, shows user info | *(add after commit)* |
-| Web – Logout | Logout button and clear token | *(add after commit)* |
-| Repo structure | /web, /backend, /mobile, /docs, README | *(add after commit)* |
+| Backend – Project setup | Spring Boot, MySQL, JPA, Security, JWT | |
+| Backend – POST /api/auth/register | User registration with validation | |
+| Backend – POST /api/auth/login | Login returns JWT | |
+| Backend – GET /api/user/me | Protected current user profile | |
+| Backend – Database | MySQL connection, User entity, repository |  |
+| Backend – Password encryption | BCrypt via Spring Security |  |
+| Web – Register page | Form and API integration |  |
+| Web – Login page | Form and API integration |  |
+| Web – Dashboard/Profile page | Protected, shows user info |  |
+| Web – Logout | Logout button and clear token |  |
+| Repo structure | /web, /backend, /mobile, /docs, README |  |
 
-**Instructions:** After each `git commit`, run `git log -1 --format="%h"` and paste the hash in the table above for the relevant task(s).
 
 ---
 
