@@ -1,11 +1,11 @@
 # IT342 – User Registration and Authentication System (Lab 1)
 
-**Repository:** IT342_G5_Custodio_Lab1
+**Repository:** IT342_G6_Custodio_Lab1
 
 ## Project Structure
 
 ```
-IT342_G5_<Lastname>_Lab1/
+IT342_G6_<Lastname>_Lab1/
 ├── web/          # React web application
 ├── backend/      # Spring Boot REST API
 ├── mobile/       # Mobile app (empty – Session 2)
