@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Match web: #fff, #333, #ddd, #f9f9f9, #c00 -->
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#FFFFFF</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="border">#DDDDDD</color>
+    <color name="border_input">#CCCCCC</color>
+    <color name="profile_bg">#F9F9F9</color>
+    <color name="button_hover">#F5F5F5</color>
+    <color name="error">#CC0000</color>
+</resources>

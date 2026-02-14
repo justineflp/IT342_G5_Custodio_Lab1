@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Match web: outline button (white bg, border #333) -->
+<resources>
+    <style name="Widget.IT342Auth.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/text_primary</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="backgroundTint">@color/white</item>
+    </style>
+</resources>
